@@ -1,0 +1,2 @@
+# Linux-kodlar-
+Linux Komutları
